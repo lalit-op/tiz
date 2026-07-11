@@ -7,7 +7,7 @@
   "packageType": "mods",
   "appName": "Cineby TV",
   "websiteURL": "https://cineby.at",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/YOUR_GITHUB_USERNAME/tizenbrew-cineby-at"
